@@ -288,8 +288,7 @@ Docker ps
 
 Port 3003 is running -
 
-<img width="975" height="86" alt="image" src="https://github.com/user-attachments/assets/0b7e5085-61e4-4115-9279-b806ac5581bf" />
- 
+<img width="975" height="86" alt="image" src="https://github.com/user-attachments/assets/d1e401ea-6819-4ca7-b461-0aabbf35c524" />
 
 
 Pushed into git repo successfully
